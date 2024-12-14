@@ -14,5 +14,6 @@ Each notebook aligns with specific course topics and provides practical applicat
 6. **LSTM/GRU for Natural Language Processing** - NLP applications.
 7. **Unsupervised Learning** - dimensionality reduction, anomaly detection, recommendation systems.
 8. **Generative Adversarial Networks (GANs)** - data generation.
-9. **Reinforcement Learning** - applications with deep networks.
+9. **Large Language Models (LLMs)** - fine tuning, RAG.
+10. **Reinforcement Learning** - applications with deep networks.
 
